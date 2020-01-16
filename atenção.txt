@@ -1,0 +1,20 @@
+************** Atenção **************
+
+Criar index e home para user = Adm e user
+location index. user
+location home. admim + cadastrar produto
+
+logica usada em mutlogin
+
+
+
+
+********************************************************
+
+Usar a msm logica de criar user 
+
+1 - Professor add, editar, excluir produto.
+&
+2 - Listar produtos 
+
+arquivos de DB aula ...........
